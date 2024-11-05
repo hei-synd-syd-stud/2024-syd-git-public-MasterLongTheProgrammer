@@ -32,7 +32,9 @@ Après les parenthèse se trouve le nom du commit.
 
 ### Task 6
 
-## 
+Lorsque je suis revenus sur le commit initial, une branche a été créée à partir du premier.
+
+Lorsque je suis revenu au dernier commit, la branche créée est revenue sur la branche principale.
 
 ## Gitgraph
 
