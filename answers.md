@@ -12,7 +12,7 @@ Cela permet de faire le lien entre Git et le fichier local.
 
 ### Task 2
 
-Une nouvelle ligne est apparue, elle explique qu'un nouveau fichier non tracké nommé README.md est apparu. Le nom du fichier est affiché en rouge.
+Une nouvelle ligne est apparue sous "git status", elle explique qu'un nouveau fichier non tracké nommé README.md est apparu.
 
 ### Task 3
 
@@ -24,7 +24,11 @@ Cette fois, la ligne dit qu'il reconnaît le nouveau fichier README.md et le fic
 
 ### Task 5
 
-### 
+La chaine de caractère du début identifie les versions de commit.
+
+HEAD indique le commit actuellement active et MAIN c'est le nom de la branche principale.
+
+Après les parenthèse se trouve le nom du commit. 
 
 ### Task 6
 
